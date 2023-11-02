@@ -1,0 +1,1 @@
+enum ConfiguratorView { interior, exterior }

@@ -1,0 +1,62 @@
+{
+    "Platform": {
+        "UNSET": 0,
+        "WEB": 1
+    },
+    "Environment": {
+        "UNSET": 0,
+        "STUDIO_EXT": 1,
+        "VALLEY_EXT": 2,
+        "STUDIO_INT": 3,
+        "VALLEY_INT": 4
+    },
+    "VersionSpecification": {
+        "UNSET": 0,
+        "MID": 1,
+        "PREM_DARK": 2,
+        "PREM_LIGHT": 3
+    },
+    "Colour": {
+        "UNSET": 0,
+        "FUME": 1,
+        "GEBZE_BLACK": 2,
+        "ANATOLIAN_RED": 3,
+        "PAMUKKALE_WHITE": 4,
+        "GEMLIK_BLUE": 5,
+        "KAPADOKYA_BEIGE": 6,
+        "PRESIDENTIAL_GREEN": 7
+    },
+    "Frame": {
+        "UNSET": 0,
+        "BLACK": 1,
+        "GLOSS_GRAY": 2
+    },
+    "Roof": {
+        "UNSET": 0,
+        "CLOSED_STEEL": 1,
+        "FIX_PANORAMIC": 2
+    },
+    "Wheel": {
+        "UNSET": 0,
+        "ALLOY17": 1,
+        "ALLOY18": 2,
+        "ALLOY19": 3
+    },
+    "FogLight": {
+        "UNSET": 0,
+        "LESS": 1,
+        "NORMAL": 2
+    },
+    "Mirror": {
+        "UNSET": 0,
+        "STANDART_MID": 1,
+        "STANDART_PREM": 2,
+        "CAMERA": 3
+    },
+    "Speaker": {
+        "UNSET": 0,
+        "BASE": 1,
+        "PREM": 2
+    },
+    "filename": "Platform.Environment.VersionSpecification.Colour.Frame.Roof.Wheel.FogLight.Mirror.Speaker.Frame.png"
+}

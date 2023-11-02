@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932250959407",
+    "project_id": "d-configurator-1731d",
+    "storage_bucket": "d-configurator-1731d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932250959407:android:7ef6614589fc7596c010da",
+        "android_client_info": {
+          "package_name": "com.example.password_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932250959407-kj3ohueu3qqqqka1v2an5n7kv6kpq6t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_2C_nyxSjep8O1mPoqAutd3a6-zMpES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932250959407-kj3ohueu3qqqqka1v2an5n7kv6kpq6t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
